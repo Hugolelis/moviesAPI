@@ -1,0 +1,7 @@
+2024-09-30 16:58:52: [31mErro no sistema res.status(...).josn is not a function[39m
+2024-09-30 17:48:45: [31mErro no sistema Cast to ObjectId failed for value "{ id: '66fb0cdfdc341c33c75cd87d' }" (type Object) at path "_id" for model "Movie"[39m
+2024-09-30 17:51:22: [31mErro no sistema Cast to ObjectId failed for value "66fb0cdfdc341c33c75cd" (type string) at path "_id" for model "Movie"[39m
+2024-09-30 17:55:42: [31mErro no sistema: Cast to ObjectId failed for value "66fb0cdfdc341c33c7" (type string) at path "_id" for model "Movie"[39m
+2024-09-30 17:56:45: [31mErro no sistema: Cast to ObjectId failed for value "66fb0cdfdc341c33c7" (type string) at path "_id" for model "Movie"[39m
+2024-09-30 18:07:02: [31mErro no sistema: Cast to ObjectId failed for value "66fb0cdfdc341c33c75cd8" (type string) at path "_id" for model "Movie"[39m
+2024-09-30 18:11:49: [31mErro no sistema: Cast to ObjectId failed for value "=" (type string) at path "_id" for model "Movie"[39m
